@@ -33,7 +33,7 @@
 
 			<key>ProxyPACURL</key>
 			<!-- REPLACE URL_TO_YOUR_PAC_FILE WITH THE LINK -->
-			<string>https://github.com/Airaleous/easylist-pac-privoxy/master/proxy.pac</string>
+			<string>https://raw.githubusercontent.com/airaleous/easylist-pac-privoxy/master/proxy.pac</string>
 
 			<key>ProxyType</key>
 			<string>Auto</string>
