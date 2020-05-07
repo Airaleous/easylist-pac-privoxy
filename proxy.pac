@@ -2902,6 +2902,8 @@ var bad_da_hostpath_JSON = { "nydailynews.com/tracker.js": null,
 "mybetting.co.uk/facebook.png": null,
 "tfl.gov.uk/tfl-global/scripts/stats.js": null,
 "sourceforge.net/images/mlopen_post.html": null,
+"usc.adserver.snapads.com": null,
+"app-analytics.snapchat.com": null,                            
 "dailyfreegames.com/js/partners.html": null };
 var bad_da_hostpath_exact_flag = 613 > 0 ? true : false;  // test for non-zero number of rules
     
