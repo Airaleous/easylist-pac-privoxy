@@ -2282,6 +2282,9 @@ var bad_da_host_JSON = { "jobthread.com": null,
 "ios-quinoa-events-prod.sense360eng.com": null,
 "ios-quinoa-high-frequency-events-prod.sense360eng.com": null,
 "v1.blueberry.cloud.databerries.com": null,
+"app-analytics.snapchat.com": null,
+"usc.adserver.snapads.com": null,
+"app-analytics.snapchat.com": null,                           
 "outbrain.com": null };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
     
@@ -2901,9 +2904,7 @@ var bad_da_hostpath_JSON = { "nydailynews.com/tracker.js": null,
 "libero.it/cgi-bin/cdcountersp.cgi": null,
 "mybetting.co.uk/facebook.png": null,
 "tfl.gov.uk/tfl-global/scripts/stats.js": null,
-"sourceforge.net/images/mlopen_post.html": null,
-"usc.adserver.snapads.com": null,
-"app-analytics.snapchat.com": null,                            
+"sourceforge.net/images/mlopen_post.html": null,                         
 "dailyfreegames.com/js/partners.html": null };
 var bad_da_hostpath_exact_flag = 613 > 0 ? true : false;  // test for non-zero number of rules
     
